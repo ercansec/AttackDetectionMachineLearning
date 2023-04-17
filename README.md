@@ -1,4 +1,4 @@
-# attackdetection_machinelearning
+# AttackDetectionMachineLearning
 DoS Attack Detection in VANET using Machine Learning
 
 Ensemble Learning: Boosting, Bagging, Stacking
